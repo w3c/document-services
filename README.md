@@ -20,7 +20,7 @@ The [Document Services Community Group](https://www.w3.org/community/services/) 
 3. A service provider could participate as a virtual co-author with a team of human authors, receiving document edits in real-time and sending data in response. Examples of word-processing applications which support real-time co-authoring scenarios include [Microsoft Word](https://support.microsoft.com/en-us/office/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d) and [Google Docs](https://www.google.com/docs/about/).
 
 # User Interface Brainstorming
-As envisioned, there are different types of response data from service providers and these response data can be integrated into word-processing applications' user interfaces in a number of ways.
+As envisioned, there are different types of response data from service providers and these response data could be integrated into word-processing applications' user interfaces in a number of ways.
 
 1. Highlighting or underlining document content and providing more information or options with a context menu.
 2. Displaying information in a status bar, e.g., word count.
@@ -29,5 +29,5 @@ As envisioned, there are different types of response data from service providers
 5. Displaying information in a side-panel widget.
 6. Displaying information in a floating, dockable widget.
 7. Displaying information in the form of a document comment which can annotate a selection of document content.
-8. Displaying information in a generated report about the document which the end-user can navigate to from or within the word-processing application.
-9. Providing response data in the form of dialogue-system content, perhaps utilizing a communication channel which supports hyperlinks which, if clicked upon, could highlight and scroll to selections of document content.
+8. Displaying information in a generated report about the document which the end-user can navigate to from or within the word-processing application. Such reports could contain hyperlinks which, if clicked upon, highlight and scroll to selections of document content.
+9. Providing response data in the form of dialogue-system content, perhaps utilizing a communication channel which supports hyperlinks which, if clicked upon, highlight and scroll to selections of document content.
