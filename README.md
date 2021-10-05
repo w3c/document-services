@@ -28,6 +28,6 @@ As envisioned, there are different types of response data from service providers
 4. Displaying information in a document margin, e.g., data about one or more paragraphs.
 5. Displaying information in a side-panel widget.
 6. Displaying information in a floating, dockable widget.
-7. Displaying information in the form of a document comment which can annotate an arbitrary selection of document content.
+7. Displaying information in the form of a document comment which can annotate a selection of document content.
 8. Displaying information in a generated report about the document which the end-user can navigate to from or within the word-processing application.
 9. Providing response data in the form of dialogue-system content, perhaps utilizing a communication channel which supports hyperlinks which, if clicked upon, could highlight and scroll to selections of document content.
